@@ -9,3 +9,8 @@ Input credentials into config file.
 Configure any other options if needed.
 |Option|Info|
 | --- | --- |
+|email|Email address.
+|password|Password.
+|format|Download quality. 1 = AAC 128, 2 = AAC 320.
+|outPath|Where to download to. Path will be made if it doesn't already exist.
+|trackTemplate|Track filename naming template. Vars: album, albumArtist, artist, title, track, trackPad, trackTotal, year.
