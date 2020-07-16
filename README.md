@@ -23,3 +23,6 @@ Args take priority over the config file.
 
 Download two albums:   
 `trm_dl_x64.exe https://music.tower.jp/album/detail/1020615044 https://music.tower.jp/album/detail/1020661108`
+
+Download a single album and from two text files:   
+`trm_dl_x64.exe https://music.tower.jp/album/detail/1020615044 G:\1.txt G:\2.txt`
