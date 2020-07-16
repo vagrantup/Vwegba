@@ -16,3 +16,7 @@ Configure any other options if needed.
 |trackTemplate|Track filename naming template. Vars: album, albumArtist, artist, title, track, trackPad, trackTotal, year.
 |lyrics|Get lyrics if available.
 |recochokuAccount|Set to true if your account is a Recochoku one.
+
+# Usage
+Args take priority over the config file.    
+**You can get a subscription with a foreign credit card.**
