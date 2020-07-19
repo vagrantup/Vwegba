@@ -30,3 +30,6 @@ Download a single album and from two text files:
  _____ _____ _____    ____                _           _
 |_   _| __  |     |  |    \ ___ _ _ _ ___| |___ ___ _| |___ ___
   | | |    -| | | |  |  |  | . | | | |   | | . | .'| . | -_|  _|
+  |_| |__|__|_|_|_|  |____/|___|_____|_|_|_|___|__,|___|___|_|
+
+Usage: trm_dl_x64.exe [--format FORMAT] [--outpath OUTPATH] [--lyrics] URLS [URLS ...]
