@@ -26,3 +26,7 @@ Download two albums:
 
 Download a single album and from two text files:   
 `trm_dl_x64.exe https://music.tower.jp/album/detail/1020615044 G:\1.txt G:\2.txt`
+```
+ _____ _____ _____    ____                _           _
+|_   _| __  |     |  |    \ ___ _ _ _ ___| |___ ___ _| |___ ___
+  | | |    -| | | |  |  |  | . | | | |   | | . | .'| . | -_|  _|
