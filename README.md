@@ -41,3 +41,6 @@ Options:
   --format FORMAT, -f FORMAT
                          Download quality. 1 = AAC 128, 2 = AAC 320. [default: -1]
   --outpath OUTPATH, -o OUTPATH
+                         Where to download to. Path will be made if it doesn't already exist.
+  --lyrics, -l           Get lyrics if available.
+  --help, -h             display this help and exit
