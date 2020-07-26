@@ -40,3 +40,4 @@ Positional arguments:
 Options:
   --format FORMAT, -f FORMAT
                          Download quality. 1 = AAC 128, 2 = AAC 320. [default: -1]
+  --outpath OUTPATH, -o OUTPATH
