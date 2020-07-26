@@ -33,3 +33,10 @@ Download a single album and from two text files:
   |_| |__|__|_|_|_|  |____/|___|_____|_|_|_|___|__,|___|___|_|
 
 Usage: trm_dl_x64.exe [--format FORMAT] [--outpath OUTPATH] [--lyrics] URLS [URLS ...]
+
+Positional arguments:
+  URLS
+
+Options:
+  --format FORMAT, -f FORMAT
+                         Download quality. 1 = AAC 128, 2 = AAC 320. [default: -1]
