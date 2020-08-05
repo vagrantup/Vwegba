@@ -48,3 +48,5 @@ Options:
    
 # Disclaimer
 - I will not be responsible for how you use TOWER RECORDS MUSIC Downloader.    
+- Tower Records and RecoChoku brand and names are the registered trademarks of their respective owners.    
+- TOWER RECORDS MUSIC Downloader has no partnership, sponsorship or endorsement with Tower Records or RecoChoku.
