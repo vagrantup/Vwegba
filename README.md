@@ -44,3 +44,7 @@ Options:
                          Where to download to. Path will be made if it doesn't already exist.
   --lyrics, -l           Get lyrics if available.
   --help, -h             display this help and exit
+  ```
+   
+# Disclaimer
+- I will not be responsible for how you use TOWER RECORDS MUSIC Downloader.    
