@@ -1,1 +1,3 @@
-module mai
+module main
+
+g
