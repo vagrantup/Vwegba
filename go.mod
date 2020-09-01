@@ -1,3 +1,3 @@
 module main
 
-g
+go 1.
