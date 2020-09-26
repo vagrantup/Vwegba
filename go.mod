@@ -3,4 +3,4 @@ module main
 go 1.17
 
 require (
-	github.com/Sorrow4
+	github.com/Sorrow446/
