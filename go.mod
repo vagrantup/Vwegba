@@ -8,4 +8,4 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 )
 
-require githu
+require github.co
