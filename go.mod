@@ -8,4 +8,4 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 )
 
-require github.com/alexflint/go-scalar v
+require github.com/alexflint/go-scalar v1.1.
